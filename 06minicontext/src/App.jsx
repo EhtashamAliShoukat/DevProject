@@ -1,7 +1,6 @@
+import Login from './components/Login'
+import Profile from './components/Profile'
 import UserContextProvider from './context/UserContextProvider'
-import Login from '../../05passwordGenerator/src/components/Login'
-import Profile from '../../05passwordGenerator/src/components/Profile'
-import './App.css'
 
 
 function App() {

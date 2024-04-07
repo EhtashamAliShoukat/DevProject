@@ -11,3 +11,5 @@ return (
     </UserContext.Provider>
 )
 }
+
+export default UserContextProvider
